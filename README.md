@@ -11,7 +11,7 @@ Make notes on your computer, stylize them using simple formatting: bold, italici
 Download your '.json file' on your 'hard drive' and open it later on.
 
 ### Make notes
-![Algorithm schema](screenshots/CreamNote - 2.png)
+![Algorithm schema](https://github.com/petercreams/Cream-Note/tree/main/screenshots/CreamNote - 2.png)
 
 ### Download .json
 ![Algorithm schema](screenshots/CreamNote - 3.png)
