@@ -1,5 +1,5 @@
 # Cream-Note
-Simple note app to make and open them in .json format. Created with JavaScript.
+Simple note app to make and open text documents in .json format. Created with JavaScript.
 
 ## Table of Contents
 * [General info](#general-info)
